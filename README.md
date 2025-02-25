@@ -18,8 +18,3 @@ This repository contains solutions to various LeetCode problems.
 - Algorithm to reverse a portion of a linked list
 - Reverses nodes from position 'left' to position 'right'
 - Solution: [`leet-code/reverse-linked-list.py`](leet-code/reverse-linked-list.py)
-
-## Implementation Details
-
-Each solution includes the complete implementation with necessary classes, methods, and test cases where applicable. The code is written to be both efficient and readable.
-
